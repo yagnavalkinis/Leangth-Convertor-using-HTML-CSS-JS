@@ -17,6 +17,13 @@ A web-based length converter that allows users to easily convert between differe
 3. Select the input and output length units.
 4. View the converted result in real-time.
 
+## Getting Started
+1. Clone the repository: `git clone https://github.com/yagnavalkinis/Length-Convertor-using-HTML-CSS-JS.git`
+2. Open `index.html` in your web browser.
+
+## How to Contribute
+If you'd like to contribute, feel free to submit a pull request with your improvements or bug fixes. I appreciate your help!
+
 ## Author
 Yagna Valkini Suryadevara
 
